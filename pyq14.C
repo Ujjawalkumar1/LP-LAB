@@ -1,15 +1,15 @@
 
-✅ 9️⃣ Lex Program – Pattern Matching
+// ✅ 9️⃣ Lex Program – Pattern Matching
 
-👉 Count:
+// 👉 Count:
 
-Strings containing “aaa”
+// Strings containing “aaa”
 
-Strings containing exactly two 'b'
+// Strings containing exactly two 'b'
 
-Strings ending with "ing"
+// Strings ending with "ing"
 
-Total matched strings
+// Total matched strings
 
 
 

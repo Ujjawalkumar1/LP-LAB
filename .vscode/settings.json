@@ -13,6 +13,7 @@
         "pyq11.C": "cpp",
         "pyq12.C": "cpp",
         "pyq13.C": "cpp",
-        "pyq14.C": "cpp"
+        "pyq14.C": "cpp",
+        "pyq16_identifier.C": "cpp"
     }
 }
